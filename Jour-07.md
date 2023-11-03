@@ -4,8 +4,8 @@
 
 ### Markdown
 
-- [ ] Préparer un README.md générique qui caresse la rétine (à réutiliser pour tous vos prochains repos)
-    - [ ] Voici un Awesome README : https://github.com/matiassingers/awesome-readme
+- [x] Préparer un README.md générique qui caresse la rétine (à réutiliser pour tous vos prochains repos)
+    - [x] Voici un Awesome README : https://github.com/matiassingers/awesome-readme
 
 ### Git
 
@@ -45,7 +45,7 @@
 
 - [x] Création de compte Github
 - [ ] Pimper son profile Github (belle du village)
-- [ ] Comprendre comment fonctionnent du chiffrement et des clés asymétriques
+- [x] Comprendre comment fonctionnent du chiffrement et des clés asymétriques
   - [x] Créer un tunnel SSH entre local et Github
 - [x] Découvrir l'interface de Github :
 - [x] Pull Requests
