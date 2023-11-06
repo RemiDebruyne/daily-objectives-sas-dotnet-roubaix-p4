@@ -17,13 +17,13 @@
 - [x] Découvrir les conventions de nommage de son versionning avec la convention Angular :
   - [x] https://github.com/angular/angular/blob/main/CONTRIBUTING.md#-commit-message-format
   - [x] https://www.conventionalcommits.org/fr/v1.0.0/
-  - [ ] Renommer son dernier commit en respectant cette convention
+  - [x] Renommer son dernier commit en respectant cette convention
 - [ ] Comprendre l'utilité et le fonctionnement de `git stash`
-- [ ] Créer un cheat sheet sur Git (en groupe en respectant les bests practices et Gitflow)
+- [x] Créer un cheat sheet sur Git (en groupe en respectant les bests practices et Gitflow)
 
 ### Gitflow
 
-- [ ] Découvrir Gitflow
+- [x] Découvrir Gitflow
   - [ ] Créer un cheat sheet sur Gitflow (en groupe)
 
 ### IA
