@@ -12,11 +12,11 @@
 - [x] Comprendre quelle est la différence entre `git pull` et `git fetch`
     - [x] À quoi sert la commande `git fetch —prune`
     - [x] Comment configurer mon git pour que ce soit fait automatiquement ?
-- [ ] Configurer son git : 
-  - [ ] Editeur 
-  - [ ] Différenciateur (par ex : Delta) 
-  - [ ] Aliases 
-  - [ ] Comprendre la différence entre config locale, globale et système
+- [x] Configurer son git : 
+  - [x] Editeur 
+  - [x] Différenciateur (par ex : Delta) 
+  - [x] Aliases 
+  - [x] Comprendre la différence entre config locale, globale et système
 
 ### Github
 
