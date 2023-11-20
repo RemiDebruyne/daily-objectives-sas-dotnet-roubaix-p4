@@ -4,7 +4,7 @@
 
 ### SQL :
 
-- [ ] Savoir ce qu'est une base de données (https://youtu.be/XQ_6G0iCyMQ)
+- [x] Savoir ce qu'est une base de données (https://youtu.be/XQ_6G0iCyMQ)
 - [ ] Savoir ce qu'est `SQL` et une base de données relationnelle (https://youtu.be/MZdO1UbTG4U)
 - [ ] Découvrir le langage `SQL` (https://sql.sh)
   - [ ] Comprendre ce qu'est une table
