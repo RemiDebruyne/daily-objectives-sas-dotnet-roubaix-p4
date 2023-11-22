@@ -34,7 +34,7 @@
 
 * [x] Découvrir ce qu'est `PostgreSQL` (https://youtu.be/tzbA7VniRpw)
 * [x] Installation de `PostgreSQL`
-* [ ] Découvrir le fonctionnement du `REPL` de `PostgreSQL`
+* [x] Découvrir le fonctionnement du `REPL` de `PostgreSQL`
 * [ ] Création/suppression de comptes utilisateurs
 * [ ] Création de bases de données (https://youtu.be/DvDOU-v822w)
 * [ ] Suppression de bases de données (https://youtu.be/IWkNbJhn2TM)
