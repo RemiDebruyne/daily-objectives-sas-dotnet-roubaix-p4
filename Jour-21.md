@@ -13,22 +13,22 @@
 
 ### SQL
 
-- [ ] Finir le parcours [SQLBolt](https://sqlbolt.com)
+- [x] Finir le parcours [SQLBolt](https://sqlbolt.com)
 
 #### Commandes SQL Essentielles
 
-- [ ] **`CREATE DATABASE`** : Créer une nouvelle base de données.
-- [ ] **`CREATE TABLE`** : Créer une nouvelle table.
-- [ ] **`INSERT INTO`** : Insérer des données dans une table.
-- [ ] **`SELECT`** : Sélectionner des données d'une table.
-- [ ] **`UPDATE`** : Mettre à jour les données existantes dans une table.
-- [ ] **`DELETE`** : Supprimer des données d'une table.
-- [ ] **`ALTER TABLE`** : Modifier la structure d'une table existante.
-- [ ] **`DROP TABLE`** : Supprimer une table.
-- [ ] **`JOIN`** : Pour combiner des colonnes de deux ou plusieurs tables basées sur une condition de jointure.
-- [ ] **`GROUP BY`** : Utilisé avec des fonctions d'agrégation pour regrouper le résultat d'une requête en fonction d'une ou plusieurs colonnes.
-- [ ] **`HAVING`** : Comme `WHERE`, mais utilisé après `GROUP BY` pour filtrer les enregistrements.
-- [ ] **`DROP DATABASE`** : Supprimer une base de données.
+- [x] **`CREATE DATABASE`** : Créer une nouvelle base de données.
+- [x] **`CREATE TABLE`** : Créer une nouvelle table.
+- [x] **`INSERT INTO`** : Insérer des données dans une table.
+- [x] **`SELECT`** : Sélectionner des données d'une table.
+- [x] **`UPDATE`** : Mettre à jour les données existantes dans une table.
+- [x] **`DELETE`** : Supprimer des données d'une table.
+- [x] **`ALTER TABLE`** : Modifier la structure d'une table existante.
+- [x] **`DROP TABLE`** : Supprimer une table.
+- [x] **`JOIN`** : Pour combiner des colonnes de deux ou plusieurs tables basées sur une condition de jointure.
+- [x] **`GROUP BY`** : Utilisé avec des fonctions d'agrégation pour regrouper le résultat d'une requête en fonction d'une ou plusieurs colonnes.
+- [x] **`HAVING`** : Comme `WHERE`, mais utilisé après `GROUP BY` pour filtrer les enregistrements.
+- [x] **`DROP DATABASE`** : Supprimer une base de données.
 
 ### PostgreSQL :
 
