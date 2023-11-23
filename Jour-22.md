@@ -10,7 +10,7 @@
 
 ### PostgreSQL
 
-- [ ] Comprendre la différence entre le `SQL` et le `NoSQL`
+- [x] Comprendre la différence entre le `SQL` et le `NoSQL`
 - [ ] Installer `pgcli` (https://www.pgcli.com/) et refaire les manipulations précédentes avec
 - [ ] Savoir générer une base de données avec `Mockaroo` (https://mockaroo.com/)
 - [ ] Savoir restaurer une base de données dans `PostgreSQL`
