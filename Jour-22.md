@@ -31,11 +31,11 @@
     - [ ] `TIMESTAMP`
   - [ ] Autres :
     - [ ] `BOOLEAN`
-- [ ] Commencer son cheat sheet `PostgreSQL` (classer par actions)
-- [ ] Savoir retrouver une information d'une base de données
-- [ ] Savoir trier les résultats
-- [ ] Savoir extraire les données distinctes
-- [ ] Savoir retrouver une information selon des conditions précises
+- [x] Commencer son cheat sheet `PostgreSQL` (classer par actions)
+- [x] Savoir retrouver une information d'une base de données
+- [x] Savoir trier les résultats
+- [x] Savoir extraire les données distinctes
+- [x] Savoir retrouver une information selon des conditions précises
 - [ ] Comprendre les relations en `SQL` :
   - [ ] `One-to-One`
   - [ ] `One-to-Many`
