@@ -30,7 +30,7 @@
     - [ ] `DATE`
     - [ ] `TIMESTAMP`
   - [ ] Autres :
-    - [ ] `BOOLEAN`
+    - [x] `BOOLEAN`
 - [x] Commencer son cheat sheet `PostgreSQL` (classer par actions)
 - [x] Savoir retrouver une information d'une base de données
 - [x] Savoir trier les résultats
