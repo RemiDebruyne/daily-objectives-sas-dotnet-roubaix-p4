@@ -17,7 +17,7 @@
 #### Conception base de données :
 
 - [ ] Découvrir la méthode `MERISE` :
-    - [ ] Découvrir ce que l'acronyme `MERISE` signifie
+    - [x] Découvrir ce que l'acronyme `MERISE` signifie
     - [ ] Comprendre le process et l'utilité des différentes phases / étapes : 
         - [ ] `MCD`
         - [ ] `MLD`
