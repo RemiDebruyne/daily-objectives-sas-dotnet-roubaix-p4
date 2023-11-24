@@ -16,20 +16,20 @@
 - [x] Savoir restaurer une base de données dans `PostgreSQL`
 - [x] Savoir restaurer le schéma d'une base de donnée uniquement
 - [x] Savoir retrouver une ou plusieurs tables d'une base de données
-- [ ] Comprendre les types de données dans `PostgreSQL`
-  - [ ] Les types numériques :
+- [x] Comprendre les types de données dans `PostgreSQL`
+  - [x] Les types numériques :
     - [x] `INT`
     - [x] `NUMERIC`
     - [x] `SERIAL`
-  - [ ] Les types chaînes de caractères :
+  - [x] Les types chaînes de caractères :
     - [x] `CHAR`
     - [x] `VARCHAR`
     - [x] `TEXT`
-  - [ ] Les types dates :
-    - [ ] `TIME`
-    - [ ] `DATE`
-    - [ ] `TIMESTAMP`
-  - [ ] Autres :
+  - [x] Les types dates :
+    - [x] `TIME`
+    - [x] `DATE`
+    - [x] `TIMESTAMP`
+  - [x] Autres :
     - [x] `BOOLEAN`
 - [x] Commencer son cheat sheet `PostgreSQL` (classer par actions)
 - [x] Savoir retrouver une information d'une base de données
