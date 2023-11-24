@@ -22,9 +22,9 @@
     - [ ] `NUMERIC`
     - [ ] `SERIAL`
   - [ ] Les types chaînes de caractères :
-    - [ ] `CHAR`
-    - [ ] `VARCHAR`
-    - [ ] `TEXT`
+    - [x] `CHAR`
+    - [x] `VARCHAR`
+    - [x] `TEXT`
   - [ ] Les types dates :
     - [ ] `TIME`
     - [ ] `DATE`
