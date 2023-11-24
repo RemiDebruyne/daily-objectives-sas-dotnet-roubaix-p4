@@ -36,7 +36,7 @@
 - [x] Savoir trier les résultats
 - [x] Savoir extraire les données distinctes
 - [x] Savoir retrouver une information selon des conditions précises
-- [ ] Comprendre les relations en `SQL` :
-  - [ ] `One-to-One`
-  - [ ] `One-to-Many`
-  - [ ] `Many-to-Many`
+- [x] Comprendre les relations en `SQL` :
+  - [x] `One-to-One`
+  - [x] `One-to-Many`
+  - [x] `Many-to-Many`
