@@ -16,12 +16,12 @@
 
 #### Conception base de données :
 
-- [ ] Découvrir la méthode `MERISE` :
+- [x] Découvrir la méthode `MERISE` :
     - [x] Découvrir ce que l'acronyme `MERISE` signifie
-    - [ ] Comprendre le process et l'utilité des différentes phases / étapes : 
-        - [ ] `MCD`
-        - [ ] `MLD`
-        - [ ] `MPD`
+    - [x] Comprendre le process et l'utilité des différentes phases / étapes : 
+        - [x] `MCD`
+        - [x] `MLD`
+        - [x] `MPD`
 
 #### PostgreSQL : 
 
