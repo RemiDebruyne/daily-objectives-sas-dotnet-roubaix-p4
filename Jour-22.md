@@ -18,9 +18,9 @@
 - [x] Savoir retrouver une ou plusieurs tables d'une base de données
 - [ ] Comprendre les types de données dans `PostgreSQL`
   - [ ] Les types numériques :
-    - [ ] `INT`
-    - [ ] `NUMERIC`
-    - [ ] `SERIAL`
+    - [x] `INT`
+    - [x] `NUMERIC`
+    - [x] `SERIAL`
   - [ ] Les types chaînes de caractères :
     - [x] `CHAR`
     - [x] `VARCHAR`
