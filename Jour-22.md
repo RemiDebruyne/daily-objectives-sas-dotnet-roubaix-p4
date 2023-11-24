@@ -13,9 +13,9 @@
 - [x] Comprendre la différence entre le `SQL` et le `NoSQL`
 - [x] Installer `pgcli` (https://www.pgcli.com/) et refaire les manipulations précédentes avec
 - [x] Savoir générer une base de données avec `Mockaroo` (https://mockaroo.com/)
-- [ ] Savoir restaurer une base de données dans `PostgreSQL`
-- [ ] Savoir restaurer le schéma d'une base de donnée uniquement
-- [ ] Savoir retrouver une ou plusieurs tables d'une base de données
+- [x] Savoir restaurer une base de données dans `PostgreSQL`
+- [x] Savoir restaurer le schéma d'une base de donnée uniquement
+- [x] Savoir retrouver une ou plusieurs tables d'une base de données
 - [ ] Comprendre les types de données dans `PostgreSQL`
   - [ ] Les types numériques :
     - [ ] `INT`
