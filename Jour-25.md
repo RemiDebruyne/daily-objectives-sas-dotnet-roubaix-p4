@@ -5,7 +5,7 @@
 ### Programmation Orientée Objets :
 
 - [ ] Découvrir les concepts fondamentaux de la `POO` :
-  - [ ] Objets
+  - [x] Objets
   - [ ] Attributs
   - [ ] Méthodes
   - [ ] Classes
