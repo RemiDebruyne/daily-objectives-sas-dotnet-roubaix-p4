@@ -7,7 +7,7 @@
 - [ ] Découvrir les concepts fondamentaux de la `POO` :
   - [x] Objets
   - [ ] Attributs
-  - [ ] Méthodes
+  - [x] Méthodes
   - [ ] Classes
   - [ ] Constructeurs
   - [ ] Héritage
