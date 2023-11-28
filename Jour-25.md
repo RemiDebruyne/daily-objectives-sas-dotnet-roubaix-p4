@@ -9,7 +9,7 @@
   - [ ] Attributs
   - [x] Méthodes
   - [ ] Classes
-  - [ ] Constructeurs
+  - [x] Constructeurs
   - [ ] Héritage
   - [ ] Encapsulation
   - [ ] Abstraction
