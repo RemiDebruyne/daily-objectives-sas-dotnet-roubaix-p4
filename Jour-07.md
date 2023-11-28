@@ -44,12 +44,12 @@
 #### Github
 
 - [x] Création de compte Github
-- [ ] Pimper son profile Github (belle du village)
+- [x] Pimper son profile Github (belle du village)
 - [x] Comprendre comment fonctionnent du chiffrement et des clés asymétriques
   - [x] Créer un tunnel SSH entre local et Github
 - [x] Découvrir l'interface de Github :
 - [x] Pull Requests
 - [~] Branches
 - [x] Issues
-- [ ] Settings projet
-- [ ] Settings profile
+- [x] Settings projet
+- [x] Settings profile

@@ -24,7 +24,7 @@
 ### Gitflow
 
 - [x] Découvrir Gitflow
-  - [ ] Créer un cheat sheet sur Gitflow (en groupe)
+  - [x] Créer un cheat sheet sur Gitflow (en groupe)
 
 ### IA
 

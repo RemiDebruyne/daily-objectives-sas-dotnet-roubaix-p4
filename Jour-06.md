@@ -10,9 +10,9 @@
 - [x] Découverte de VS Code
 - [x] Comprendre le web (Openclassrooms) (optionnel pour les débutants complets)
 - [x] Comprendre l'intérêt des raccourcis clavier
-- [ ] Découverte des raccourcis clavier de son système (Windows, Linux, Mac) :
-  - [ ] Navigateur (fenêtres, onglets, navigation, etc …)
-  - [ ] Terminal (fenêtres, onglets, …)
+- [x] Découverte des raccourcis clavier de son système (Windows, Linux, Mac) :
+  - [x] Navigateur (fenêtres, onglets, navigation, etc …)
+  - [x] Terminal (fenêtres, onglets, …)
 
 #### Terminal
 
@@ -20,12 +20,12 @@
   - [x] Savoir ce qu'est un shell, quelle différence entre BASH et ZSH
   - [x] Comprendre comment fonctionne un shell
   - [x] Comprendre le fonctionnement des alias
-    - [ ] Setup ses alias
+    - [x] Setup ses alias
   - [x] Comprendre le fonctionnement et l'utilité des commandes de bases (cd, ls, rm, rmdir, mv, cp, mkdir)
   - [x] Comprendre le principe des options dans les commandes
 - [x] Choix / installation d'un terminal (Linux, Mac ou Windows)
 - [x] Pimper son terminal (Zsh, Ohmyzsh, Powerlevel10k)
-- [ ] Créer un cheat sheet sur les principales commandes du terminal
+- [x] Créer un cheat sheet sur les principales commandes du terminal
 
 ### Markdown
 
@@ -36,10 +36,10 @@
   - [x] Listes
   - [x] Formatage de texte (italique, souligné, gras)
   - [x] Code
-  - [ ] Citations
-  - [ ] Tableaux
-  - [ ] Liens
-- [ ] Faire le parcours "how-to-markdown" (Nodeschool.io)
+  - [x] Citations
+  - [x] Tableaux
+  - [x] Liens
+- [x] Faire le parcours "how-to-markdown" (Nodeschool.io)
 
 - [x] Commencer la rédaction en Markdown de ses cheat sheets dans un repo créé pour l'occasion
 - [x] Ajouter ce repo en upstream dans les remotes sur son local après l'avoir forké et cloné
