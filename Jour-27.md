@@ -6,7 +6,7 @@
 
 #### Base de données
 
-- [ ] Comprendre la différence entre chiffrement et cryptage
+- [x] Comprendre la différence entre chiffrement et cryptage
 - [ ] Comprendre le fonctionnement du hashage et du salage
 - [ ] Découvrir le principe de `UUID`
 - [ ] Découvrir le concept de migration 
