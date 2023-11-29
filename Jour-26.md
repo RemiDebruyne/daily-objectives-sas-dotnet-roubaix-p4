@@ -19,7 +19,7 @@
   - [x] Comprendre ce qu'est un paquet
   - [x] Savoir ce qu'est le `Semantic Versionning` (SemVer)
   - [ ] Comprendre comment fonctionne le `package.json` / Mise à jour
-    - [ ] Comprendre quelle est la différence entre `"4.0.0"` et `"^4.0.0"` et `"~4.0.0"`
+    - [x] Comprendre quelle est la différence entre `"4.0.0"` et `"^4.0.0"` et `"~4.0.0"`
   - [ ] Comprendre quelle est la différence entre `npm` et `npx`
   - [ ] Commencer son cheat sheet pour son package manager
 
