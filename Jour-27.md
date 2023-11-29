@@ -17,8 +17,8 @@
 - [ ] Préparer un cheat sheet sur le concept d'`API` : 
     - [x] Comprendre ce qu'est une `API`
     - [x] Comprendre l'Architecture `Client-Server`
-    - [ ] Comprendre la notion de consommation d'`API`
-    - [ ] Découvrir les verbes HTTP, distinguer quand et pourquoi utiliser chaque verbe :
+    - [x] Comprendre la notion de consommation d'`API`
+    - [~] Découvrir les verbes HTTP, distinguer quand et pourquoi utiliser chaque verbe :
         - [ ] `GET`
         - [ ] `POST`
         - [ ] `PUT`
@@ -27,10 +27,10 @@
     - [ ] Préparer un tableau dans son cheat sheet sur les code status (2xx, 3xx, 4xx, 5xx)
         - [ ] À quoi correspondent les codes status `418` et `420` ?
     - [ ] Comprendre ce qu'est un Payload dans les requêtes HTTP
-    - [ ] Comprendre le modèle `MVC` (Model-Vue-Controller)
+    - [x] Comprendre le modèle `MVC` (Model-Vue-Controller)
     - [ ] Comprendre l'architecture `REST`
     - [ ] Comprendre la différence entre "statefull" et "stateless"
-    - [ ] Comprendre la différence entre `URL` et `URI`
+    - [~] Comprendre la différence entre `URL` et `URI`
     - [ ] Comprendre la différence entre "chemin relatif" et "chemin absolu"
     - [ ] Comprendre ce qu'est un `ORM` et quelle différence avec un `ODM` ?
     - [ ] Comprendre ce qu'est un `Middleware`
