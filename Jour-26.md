@@ -12,7 +12,7 @@
   - [x] Comprendre les différences entre les package managers et en choisir un :
     - [x] Découverte de "NPM", "Yarn" et "PNPM"
   - [ ] Savoir faire les commandes de bases :
-    - [ ] Installer un package (local et global)
+    - [x] Installer un package (local et global)
     - [x] Comprendre la différence entre une installation locale vs globale, entre développement vs production
     - [ ] Désinstaller un package (local et global)
     - [ ] Mettre jour les packages (local et global) et le package manager
