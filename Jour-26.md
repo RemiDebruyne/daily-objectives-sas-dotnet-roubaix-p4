@@ -11,7 +11,7 @@
 - [x] Comprendre le fonctionnement de `NPM` :
   - [x] Comprendre les différences entre les package managers et en choisir un :
     - [x] Découverte de "NPM", "Yarn" et "PNPM"
-  - [ ] Savoir faire les commandes de bases :
+  - [x] Savoir faire les commandes de bases :
     - [x] Installer un package (local et global)
     - [x] Comprendre la différence entre une installation locale vs globale, entre développement vs production
     - [x] Désinstaller un package (local et global)
@@ -21,7 +21,7 @@
   - [x] Comprendre comment fonctionne le `package.json` / Mise à jour
     - [x] Comprendre quelle est la différence entre `"4.0.0"` et `"^4.0.0"` et `"~4.0.0"`
   - [ ] Comprendre quelle est la différence entre `npm` et `npx`
-  - [ ] Commencer son cheat sheet pour son package manager
+  - [x] Commencer son cheat sheet pour son package manager
 
 ## Code Tooling
 
