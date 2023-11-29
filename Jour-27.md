@@ -15,8 +15,8 @@
 #### API
 
 - [ ] Préparer un cheat sheet sur le concept d'`API` : 
-    - [ ] Comprendre ce qu'est une `API`
-    - [ ] Comprendre l'Architecture `Client-Server`
+    - [x] Comprendre ce qu'est une `API`
+    - [x] Comprendre l'Architecture `Client-Server`
     - [ ] Comprendre la notion de consommation d'`API`
     - [ ] Découvrir les verbes HTTP, distinguer quand et pourquoi utiliser chaque verbe :
         - [ ] `GET`
