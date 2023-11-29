@@ -28,7 +28,7 @@
         - [ ] À quoi correspondent les codes status `418` et `420` ?
     - [ ] Comprendre ce qu'est un Payload dans les requêtes HTTP
     - [x] Comprendre le modèle `MVC` (Model-Vue-Controller)
-    - [ ] Comprendre l'architecture `REST`
+    - [~] Comprendre l'architecture `REST`
     - [ ] Comprendre la différence entre "statefull" et "stateless"
     - [~] Comprendre la différence entre `URL` et `URI`
     - [ ] Comprendre la différence entre "chemin relatif" et "chemin absolu"
