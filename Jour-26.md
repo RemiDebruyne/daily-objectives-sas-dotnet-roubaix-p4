@@ -14,8 +14,8 @@
   - [ ] Savoir faire les commandes de bases :
     - [x] Installer un package (local et global)
     - [x] Comprendre la différence entre une installation locale vs globale, entre développement vs production
-    - [ ] Désinstaller un package (local et global)
-    - [ ] Mettre jour les packages (local et global) et le package manager
+    - [x] Désinstaller un package (local et global)
+    - [x] Mettre jour les packages (local et global) et le package manager
   - [x] Comprendre ce qu'est un paquet
   - [x] Savoir ce qu'est le `Semantic Versionning` (SemVer)
   - [ ] Comprendre comment fonctionne le `package.json` / Mise à jour
