@@ -18,12 +18,12 @@
     - [x] Comprendre ce qu'est une `API`
     - [x] Comprendre l'Architecture `Client-Server`
     - [x] Comprendre la notion de consommation d'`API`
-    - [~] Découvrir les verbes HTTP, distinguer quand et pourquoi utiliser chaque verbe :
-        - [ ] `GET`
-        - [ ] `POST`
-        - [ ] `PUT`
-        - [ ] `PATCH`
-        - [ ] `DELETE`
+    - [x] Découvrir les verbes HTTP, distinguer quand et pourquoi utiliser chaque verbe :
+        - [x] `GET`
+        - [x] `POST`
+        - [x] `PUT`
+        - [x] `PATCH`
+        - [x] `DELETE`
     - [ ] Préparer un tableau dans son cheat sheet sur les code status (2xx, 3xx, 4xx, 5xx)
         - [ ] À quoi correspondent les codes status `418` et `420` ?
     - [ ] Comprendre ce qu'est un Payload dans les requêtes HTTP
